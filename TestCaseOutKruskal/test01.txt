@@ -1,0 +1,6 @@
+First Node - Second node        Weight
+2                   3           4
+0                   3           5
+0                   1           10
+Total weight: 19
+--- 0.000996828079223632 seconds ---
