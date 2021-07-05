@@ -1,5 +1,5 @@
 Para ejecutar cualquiera de los dos algoritmos es 
-necesario los siguientes comandos:
+necesario usar los siguientes comandos:
 
  py Boruvka TestCases/test00.txt
  py Kruskal TestCases/test00.txt
